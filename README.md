@@ -1,7 +1,6 @@
 # Decomposition-Calorimetric-Spectra
-This code was written as an exercise after the Holliday break 2017 (11 January/2017).
-This is a beta version of an automatic fitting and decomposition code
-for the differential scanning calorimetry (DSC) spectra into a sum of various types of Gaussian-like peaks. 
+This code was written as an exercise after the Holliday break 2017 (2-3 January/2017).
+This is a beta version of an automatic fitting and decomposition differential scanning calorimetry (DSC) spectra into a sum of various types of Gaussian-like peaks. 
 Only single data file from ref. [1] paper was used for testing, so it needs more testing. 
 
 References: 
